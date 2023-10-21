@@ -27,3 +27,4 @@
 - [Optional: Ancient Wyvern](doc/ancient-wyvern.md)
 - [Optional: Nameless King](doc/nameless-king.md)
 - [Optional: Gravetender](doc/gravetender.md)
+- [Optional: Friede](doc/friede.md)
