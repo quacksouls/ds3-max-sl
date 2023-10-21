@@ -19,3 +19,4 @@
 - [Dancer](doc/dancer.md)
 - [Dragonslayer Armour](doc/dragonslayer-armour.md)
 - [Twin Princes](doc/twin-princes.md)
+- [Soul of Cinder](doc/soul-cinder.md)
