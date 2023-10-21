@@ -18,3 +18,4 @@
 - [Aldrich](doc/aldrich.md)
 - [Dancer](doc/dancer.md)
 - [Dragonslayer Armour](doc/dragonslayer-armour.md)
+- [Twin Princes](doc/twin-princes.md)
