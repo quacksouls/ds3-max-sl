@@ -23,3 +23,4 @@
 - [Optional: Curse-Rotted Greatwood](doc/greatwood.md)
 - [Optional: Oceiros](doc/oceiros.md)
 - [Optional: Champion Gundyr](doc/champion-gundyr.md)
+- [Optional: Old Demon King](doc/old-demon-king.md)
