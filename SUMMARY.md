@@ -16,3 +16,4 @@
 - [Pontiff Sulyvahn](doc/pontiff-sulyvahn.md)
 - [Yhorm](doc/yhorm.md)
 - [Aldrich](doc/aldrich.md)
+- [Dancer](doc/dancer.md)
