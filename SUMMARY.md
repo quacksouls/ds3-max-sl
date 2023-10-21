@@ -8,3 +8,4 @@
 - [Iudex Gundyr](doc/iudex-gundyr.md)
 - [Vordt](doc/vordt.md)
 - [Undead Settlement](doc/undead-settlement.md)
+- [Crystal Sage](doc/crystal-sage.md)
