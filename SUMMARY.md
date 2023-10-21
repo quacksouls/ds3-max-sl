@@ -14,3 +14,4 @@
 - [Wolnir](doc/wolnir.md)
 - [Irithyll of the Boreal Valley](doc/irithyll.md)
 - [Pontiff Sulyvahn](doc/pontiff-sulyvahn.md)
+- [Yhorm](doc/yhorm.md)
