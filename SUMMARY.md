@@ -28,3 +28,4 @@
 - [Optional: Nameless King](doc/nameless-king.md)
 - [Optional: Gravetender](doc/gravetender.md)
 - [Optional: Friede](doc/friede.md)
+- [Optional: Demon Prince](doc/demon-prince.md)
