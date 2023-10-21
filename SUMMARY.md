@@ -12,3 +12,4 @@
 - [Deacons of the Deep](doc/deacons.md)
 - [Abyss Watchers](doc/abyss-watchers.md)
 - [Wolnir](doc/wolnir.md)
+- [Irithyll of the Boreal Valley](doc/irithyll.md)
