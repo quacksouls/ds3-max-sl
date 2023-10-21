@@ -1,24 +1,16 @@
-# Project name
+# Max SL in Dark Souls III
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Insert introduction
-
-<!-- ====================================================================== -->
-
-## Development
-
-We customized various themes:
-
-<!-- prettier-ignore -->
-Insert list of customized themes
+Tips, strategies, and routes to reach the maximum soul level in
+[Dark Souls III](https://store.steampowered.com/app/374320/DARK_SOULS_III/).
 
 <!-- ====================================================================== -->
 
 ## Acknowledgement
 
 <!-- prettier-ignore -->
-- [HonKit](https://github.com/honkit/honkit) is used to build the tutorial.
+- [HonKit](https://github.com/honkit/honkit) is used to build the guide.
 
 <!-- ====================================================================== -->
 
