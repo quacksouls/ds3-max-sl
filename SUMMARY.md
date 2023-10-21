@@ -10,3 +10,4 @@
 - [Undead Settlement](doc/undead-settlement.md)
 - [Crystal Sage](doc/crystal-sage.md)
 - [Deacons of the Deep](doc/deacons.md)
+- [Abyss Watchers](doc/abyss-watchers.md)
