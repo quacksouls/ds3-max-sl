@@ -7,3 +7,4 @@
 - [Routes](doc/routes.md)
 - [Iudex Gundyr](doc/iudex-gundyr.md)
 - [Vordt](doc/vordt.md)
+- [Undead Settlement](doc/undead-settlement.md)
