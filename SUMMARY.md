@@ -29,3 +29,4 @@
 - [Optional: Gravetender](doc/gravetender.md)
 - [Optional: Friede](doc/friede.md)
 - [Optional: Demon Prince](doc/demon-prince.md)
+- [Optional: Midir](doc/midir.md)
