@@ -26,3 +26,4 @@
 - [Optional: Old Demon King](doc/old-demon-king.md)
 - [Optional: Ancient Wyvern](doc/ancient-wyvern.md)
 - [Optional: Nameless King](doc/nameless-king.md)
+- [Optional: Gravetender](doc/gravetender.md)
