@@ -17,3 +17,4 @@
 - [Yhorm](doc/yhorm.md)
 - [Aldrich](doc/aldrich.md)
 - [Dancer](doc/dancer.md)
+- [Dragonslayer Armour](doc/dragonslayer-armour.md)
