@@ -22,3 +22,4 @@
 - [Soul of Cinder](doc/soul-cinder.md)
 - [Optional: Curse-Rotted Greatwood](doc/greatwood.md)
 - [Optional: Oceiros](doc/oceiros.md)
+- [Optional: Champion Gundyr](doc/champion-gundyr.md)
