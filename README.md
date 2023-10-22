@@ -4,6 +4,9 @@
 
 Tips, strategies, and routes to reach the maximum soul level in
 [Dark Souls III](https://store.steampowered.com/app/374320/DARK_SOULS_III/).
+This guide complements the videos here:
+
+https://www.youtube.com/playlist?list=PL2OiiNZU6nWPpUXubU0E6wqNSTigBPJJp
 
 <!-- ====================================================================== -->
 
