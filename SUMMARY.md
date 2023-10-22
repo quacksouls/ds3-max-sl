@@ -32,3 +32,4 @@
 - [Optional: Midir](doc/midir.md)
 - [Optional: Halflight](doc/halflight.md)
 - [Optional: Gael](doc/gael.md)
+- [Conclusion](doc/conclusion.md)
