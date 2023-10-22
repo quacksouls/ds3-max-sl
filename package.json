@@ -1,6 +1,6 @@
 {
   "name": "ds3-max-sl",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Reach max SL in Dark Souls III",
   "main": "index.js",
   "scripts": {
