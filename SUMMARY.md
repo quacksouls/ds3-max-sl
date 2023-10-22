@@ -31,3 +31,4 @@
 - [Optional: Demon Prince](doc/demon-prince.md)
 - [Optional: Midir](doc/midir.md)
 - [Optional: Halflight](doc/halflight.md)
+- [Optional: Gael](doc/gael.md)
